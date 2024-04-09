@@ -14,6 +14,13 @@ export default component$(() => {
         <ul>
           <li>
             <a
+              href="/contacts"
+            >
+            Contacts
+            </a>
+          </li>
+          <li>
+            <a
               href="https://qwik.builder.io/docs/components/overview/"
               target="_blank"
             >
