@@ -12,4 +12,7 @@ This is a showcase site that I am creating while taking a course on the Qwik fra
 - clone locally
 - `npm i`
 - `npm run dev`
-    
+
+## see more showcases
+
+- https://tanguay-eu.vercel.app/starters
